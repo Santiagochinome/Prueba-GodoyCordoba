@@ -38,3 +38,6 @@ Por favor, actualiza la configuración del puerto para este proyecto. **El front
 Este se encuentra ubicado en el archivo **Program.cs** en la linea 22 hasta la linea 30, pero siendo la que importa la linea 26.
 
 Esta seria la configuración para que el API funcione adecuadamente, no olvidar cargar la base de datos que esta como un archivo .bak llamado **CatFactDb.bak**.
+
+### Frontend (Vue)
+`<Enlace descarga>` : <https://nodejs.org/es>
