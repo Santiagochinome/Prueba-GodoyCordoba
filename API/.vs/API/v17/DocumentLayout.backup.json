@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\controllers\\gifcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:controllers\\gifcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\services\\persistenthistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:services\\persistenthistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\models\\searchhistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:models\\searchhistoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:controllers\\factcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\models\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:models\\searchhistoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|f:\\users\\santi\\documents\\prueba_santiago-chinome\\api\\models\\gifresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BA308-C2B5-4D5A-98B5-BBC44A26B36F}|API.csproj|solutionrelative:models\\gifresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\AppDbContext.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:08:08.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchHistoryEntity.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\SearchHistoryEntity.cs",
+              "RelativeDocumentMoniker": "Models\\SearchHistoryEntity.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\SearchHistoryEntity.cs",
+              "RelativeToolTip": "Models\\SearchHistoryEntity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:46:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersistentHistoryService.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Services\\PersistentHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\PersistentHistoryService.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Services\\PersistentHistoryService.cs",
+              "RelativeToolTip": "Services\\PersistentHistoryService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:46:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GifController.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\GifController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GifController.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\GifController.cs",
+              "RelativeToolTip": "Controllers\\GifController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:17:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchHistoryItem.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\SearchHistoryItem.cs",
+              "RelativeDocumentMoniker": "Models\\SearchHistoryItem.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\SearchHistoryItem.cs",
+              "RelativeToolTip": "Models\\SearchHistoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:45:08.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FactController.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\FactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FactController.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\FactController.cs",
+              "RelativeToolTip": "Controllers\\FactController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:16:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistoryController.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "Controllers\\HistoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:58:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:23:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API.csproj",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API.csproj",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\API.csproj",
+              "RelativeToolTip": "API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-08T22:49:15.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GifResponse.cs",
+              "DocumentMoniker": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\GifResponse.cs",
+              "RelativeDocumentMoniker": "Models\\GifResponse.cs",
+              "ToolTip": "F:\\Users\\santi\\Documents\\Prueba_Santiago-Chinome\\API\\Models\\GifResponse.cs",
+              "RelativeToolTip": "Models\\GifResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:41:44.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

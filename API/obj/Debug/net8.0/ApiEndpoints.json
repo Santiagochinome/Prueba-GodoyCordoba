@@ -1,0 +1,63 @@
+[
+  {
+    "ContainingType": "API.Controllers.FactController",
+    "Method": "Get",
+    "RelativePath": "api/Fact",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "API.Models.CatFactApi.Models.CatFact",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "API.Controllers.GifController",
+    "Method": "Get",
+    "RelativePath": "api/Gif",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.GifController",
+    "Method": "RefreshGif",
+    "RelativePath": "api/Gif/refresh",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fact",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.HistoryController",
+    "Method": "Get",
+    "RelativePath": "api/History",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
