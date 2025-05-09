@@ -1,3 +1,31 @@
+### Instrucciones para Clonar el Repositorio
+Para clonar este repositorio en tu máquina local, sigue los siguientes pasos:
+
+1. **Instalar Git**
+	Asegurarse de poseer Git, recomendado versión mas reciente.
+
+2. **Abrir la Terminal o Símbolo del Sistema**
+	Abre la terminal (Linux/Mac) o el símbolo del sistema (Windows).
+	
+3. **Navegar a la Carpeta Deseada**
+	Usa el comando `cd` para llegar a la carpeta donde deseas clonar el repositorio. Por ejemplo:
+	
+    ```
+    cd ruta/a/tu/carpeta
+    ```
+4. **Ejecutar los siguentes comandos para clonar a la carpeta**
+	- Reemplazar por la URL, en cuestión:
+    ```
+    git clone URL_DEL_REPOSITORIO
+    ```
+	- Acceda a la carpeta creada, con el nombre del repositorio:
+
+    ```
+    cd nombre_del_repositorio
+    ```
+
+Nota: Recuerde que puede obtener el enlace en el mismo repositorio, abierto en el navegador, siguendo los pasos de: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
 ### API .NET 8 
 **REQUISITOS**
 
